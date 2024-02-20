@@ -8,11 +8,11 @@
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_cloudwatch"></a> [cloudwatch](#module\_cloudwatch) | ./Modules/Services/CloudWatch | n/a |
-| <a name="module_container_service"></a> [container\_service](#module\_container\_service) | ./Modules/Services/ECS | n/a |
-| <a name="module_load_balancer"></a> [load\_balancer](#module\_load\_balancer) | ./Modules/Services/ALB | n/a |
-| <a name="module_network"></a> [network](#module\_network) | ./Modules/Network | n/a |
-| <a name="module_repository"></a> [repository](#module\_repository) | ./Modules/Services/ECR | n/a |
+| <a name="module_cloudwatch"></a> [cloudwatch](#module\_cloudwatch) | ./Infraestructure/Modules/Services/CloudWatch | n/a |
+| <a name="module_container_service"></a> [container\_service](#module\_container\_service) | ./Infraestructure/Modules/Services/ECS | n/a |
+| <a name="module_load_balancer"></a> [load\_balancer](#module\_load\_balancer) | ./Infraestructure/Modules/Services/ALB | n/a |
+| <a name="module_network"></a> [network](#module\_network) | ./Infraestructure/Modules/Network | n/a |
+| <a name="module_repository"></a> [repository](#module\_repository) | ./Infraestructure/Modules/Services/ECR | n/a |
 
 ## Inputs
 
