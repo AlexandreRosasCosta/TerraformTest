@@ -1,0 +1,6 @@
+/Infrastructure/.terraform*
+/Infrastructure/*.tfstate
+/Infrastructure/*.tfvars
+/Infrastructure/*.tfstate.*
+/Application/node_modules
+./Application/package*
